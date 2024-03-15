@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+}
+
+.bottom-container{
+    text-align: center;
+    background-color:  #E3FDFD;
+    padding:0 25px 25px 25px;
+}
+
+.btn{
+    background-color: #71C9CE;
+    color:white;
+    border: 0;
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-family: "Quicksand",cursive;
+    width: 200px;
+}
+
+.h3c{
+    font-size: 30px;
+    margin: 0;
+}
+
+.h2c{
+    margin: 0; 
+    font-size :40px;
+}
+
+.para{
+    font-size: 20px;
+    margin-top: 5px;
+    padding:0px 250px ;
+}
+
+.navbar{
+    text-align: center;
+}
+.elenav{
+    color: white;
+    padding-right: 10px;
+}
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-color: #71C9CE;
+}
+
+.upper-container{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;  
+    background-color: #A6E3E9;
+    position: relative;
+    margin-bottom: 0;
+    padding-top: 70px;
+}
+
+.cedarville-cursive-regular {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+.truculenta{
+    font-family: Truculenta;
+}
+
+.imghigh{
+    width: 400px;
+}
+
+.higher{
+    position: absolute;
+    right: 130px;
+    top:-80px;
+}
+
+.lower{
+    position: absolute;
+    left:200px;
+    bottom:220px;
+}
+
+.prog{
+    margin: 0;
+    font-size: 30px;
+}
+
+.lowest{
+    margin: 0;
+    width: 100%;
+}
+
+.aboutme{
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black ;
+    margin-left:10% ;
+    width: 80%;
+}
+
+.middle-container{
+    background-color: #E3FDFD;
+}
+.profile{
+    border-radius: 100%;
+    width: 10%;
+    margin-left: 45%;
+}
+
+.aboutmep{
+    font-size: 20px;
+    margin:  10px 100px;
+}
+
+.legend{
+    font-size: 50px;
+}
+
+.imgskill{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    margin-left:150px ;
+    margin-top: 50px ;
+}
+
+.skill1{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows:300px;
+    
+}
+.textskill{
+    display: flex;
+    flex-direction: column;
+    padding-top:50px;
+    padding-right: 100px;
+}
+.skilltext{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.skillhead{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+.middle2{
+    background-color: #E3FDFD;
+    padding: 30px;
+}
+
+.divider{
+    display: flex;
+    justify-content: center;
+    background-color: #E3FDFD;
+}
+
+.divider img{
+    height: 100px;
+}
+
+
+
+
+/* 
+<br>
+            <div class="skill1">
+                <img src="./giphy.gif" class="imgskill s1">  
+                <div>
+                <h3 class="truculenta parash3">Web Design and Development</h3>
+                <p class="truculenta paraskill">I am very curious about the workings of websites, artificial intelligence and games. It is this facination that brought me to learning web development. I can now make basic Html and CSS pages and am going to learn javascript and back-end next. Wish me luck!</p>
+            </div>
+            <br>
+            <div class="skill2">
+                <img src="./giphy (1).gif" class="imgskill s2">
+           
+                <h3 class="truculenta parash3">Heavy Hitter</h3>
+                <p class="truculenta paraskill">I am, although an amateur, a good martial artist. My parents insisted I do martial arts rather than cricket which is very over saturated sport in my country. Initially, I whined but after years of training I am nothing but happy I made the choice to do karate , boxing and now muay thai! </p>
+   
+        </div>
+        </div> */
